@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AlfredoDesigns
-- 👀 I’m a Programmer 
-- 🌱 I’m currently learning Lua and C#
-- 📫 How to reach me alfredodesigns.web@gmail.com
+- 👋 Hi, I’m @AGDeveloper
+- 👀 I’m a FullStack Developer
+- 🌱 I’m currently learning Software Engine and Cibersecurity
+- 📫 How to reach me trabajo@agdeveloper.net
 
 <!---
 AlfredoDesigns/AlfredoDesigns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
